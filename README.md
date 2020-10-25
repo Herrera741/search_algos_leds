@@ -16,7 +16,7 @@ I started this project to build on my Arduino skills and circuits and implement 
 - Arduino UNO
 
 ## Installation
-- download Arduino ID
+- download Arduino IDE 1.8.13
 
 ## How to use?
 - clone Arduino sketch repository
