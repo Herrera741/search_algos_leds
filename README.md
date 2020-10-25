@@ -5,7 +5,7 @@
 I started this project to build on my Arduino skills and circuits and implement the most foundational algorithms used in my classes. Plan to add HC-05 bluetooth component to breadboard and implement Bluetooth communication between custom-made Android application and Arduino board. Android application will include options to view select algorithms.
  
 ## Screenshots
-Include logo/demo screenshot etc.
+![image](https://user-images.githubusercontent.com/47908881/97097734-7fe73700-1631-11eb-86df-7f50c04b2fc1.png)
 
 ## Tech/framework used
 <b>Built with</b>
