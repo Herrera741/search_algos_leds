@@ -5,7 +5,7 @@
 I started this project to build on my Arduino skills and circuits and implement the most foundational algorithms used in my classes. Plan to add HC-05 bluetooth component to breadboard and implement Bluetooth communication between custom-made Android application and Arduino board. Android application will include options to view select algorithms.
  
 ## Screenshots
-![image](https://user-images.githubusercontent.com/47908881/97097734-7fe73700-1631-11eb-86df-7f50c04b2fc1.png)
+![bfs_dfs_leds](https://user-images.githubusercontent.com/47908881/97114750-9a5ff580-16af-11eb-8ca6-a12ecf6fe40c.png)
 
 ## Demo
 [![](http://img.youtube.com/vi/rggLwx25aUk/0.jpg)](http://www.youtube.com/watch?v=rggLwx25aUk "BFS/DFS LEDs Demo")
