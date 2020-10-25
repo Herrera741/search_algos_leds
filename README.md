@@ -7,6 +7,7 @@ I started this project to build on my Arduino skills and circuits and implement 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/47908881/97097734-7fe73700-1631-11eb-86df-7f50c04b2fc1.png)
 
+## Demo
 [![](http://img.youtube.com/vi/rggLwx25aUk/0.jpg)](http://www.youtube.com/watch?v=rggLwx25aUk "BFS/DFS LEDs Demo")
 
 ## Tech/framework used
